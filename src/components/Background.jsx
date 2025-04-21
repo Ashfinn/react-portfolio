@@ -27,7 +27,7 @@ const ZoomBackground = ({ children }) => {
       <div
         className="fixed inset-0 w-full h-full transition-transform duration-100 ease-linear"
         style={{
-          backgroundImage: "url('/assets/hero-bg.webp')",
+          backgroundImage: "url('/assets/hero-bg.jpg')",
           backgroundSize: 'cover',
           backgroundPosition: 'center center',
           backgroundRepeat: 'no-repeat',
