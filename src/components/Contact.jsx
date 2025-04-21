@@ -8,7 +8,7 @@ function Contact() {
           Let's Connect
         </h2>
       </div>
-      <div className="bg-black/80 rounded-lg p-8 md:p-12 border border-white/20 max-w-2xl mx-auto text-center">
+      <div className="bg-black/80 p-8 md:p-12 border border-white/20 max-w-2xl mx-auto text-center">
         <p className="text-gray-300 text-lg mb-8 leading-relaxed">
           Passionate about collaborating on projects blending mathematics and
           code. Reach out to discuss ideas, opportunities, or just to chat about
@@ -17,7 +17,7 @@ function Contact() {
         <div className="flex flex-col md:flex-row items-center justify-center gap-6">
           <a
             href="mailto:obidur.shawal@gmail.com"
-            className="bg-white/10 text-white px-6 py-3 rounded-lg hover:bg-white hover:text-black transition-colors duration-300 border border-white/20 flex items-center justify-center"
+            className="bg-white/10 text-white px-6 py-3 hover:bg-white hover:text-black transition-colors duration-300 border border-white/20 flex items-center justify-center"
           >
             <span role="img" aria-label="email" className="mr-2">
               📧
@@ -26,7 +26,7 @@ function Contact() {
           </a>
           <a
             href="https://github.com/Ashfinn"
-            className="bg-white/10 text-white px-6 py-3 rounded-lg hover:bg-white hover:text-black transition-colors duration-300 border border-white/20 flex items-center justify-center"
+            className="bg-white/10 text-white px-6 py-3 hover:bg-white hover:text-black transition-colors duration-300 border border-white/20 flex items-center justify-center"
           >
             <span role="img" aria-label="github" className="mr-2">
               🐙
@@ -35,7 +35,7 @@ function Contact() {
           </a>
           <a
             href="https://linkedin.com/in/obidur-rahman-shawal"
-            className="bg-white/10 text-white px-6 py-3 rounded-lg hover:bg-white hover:text-black transition-colors duration-300 border border-white/20 flex items-center justify-center"
+            className="bg-white/10 text-white px-6 py-3 hover:bg-white hover:text-black transition-colors duration-300 border border-white/20 flex items-center justify-center"
           >
             <span role="img" aria-label="linkedin" className="mr-2">
               🔗
@@ -44,7 +44,7 @@ function Contact() {
           </a>
           <a
             href="https://www.ashfinn.github.io"
-            className="bg-white/10 text-white px-6 py-3 rounded-lg hover:bg-white hover:text-black transition-colors duration-300 border border-white/20 flex items-center justify-center"
+            className="bg-white/10 text-white px-6 py-3 hover:bg-white hover:text-black transition-colors duration-300 border border-white/20 flex items-center justify-center"
           >
             <span role="img" aria-label="website" className="mr-2">
               🌐

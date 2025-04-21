@@ -13,19 +13,19 @@ function Footer() {
         <div className="flex justify-center gap-6">
           <a
             href="https://github.com/Ashfinn"
-            className="bg-white/10 text-white px-4 py-2 rounded-lg hover:bg-white hover:text-black transition-colors duration-300 border border-white/20 flex items-center justify-center"
+            className="bg-white/10 text-white px-4 py-2 hover:bg-white hover:text-black transition-colors duration-300 border border-white/20 flex items-center justify-center"
           >
             <FontAwesomeIcon icon={faGithub} size="xl" />
           </a>
           <a
             href="https://linkedin.com/in/obidur-rahman-shawal"
-            className="bg-white/10 text-white px-4 py-2 rounded-lg hover:bg-white hover:text-black transition-colors duration-300 border border-white/20 flex items-center justify-center"
+            className="bg-white/10 text-white px-4 py-2 hover:bg-white hover:text-black transition-colors duration-300 border border-white/20 flex items-center justify-center"
           >
             <FontAwesomeIcon icon={faLinkedin} size="xl" />
           </a>
           <a
             href="https://www.ashfinn.github.io"
-            className="bg-white/10 text-white px-4 py-2 rounded-lg hover:bg-white hover:text-black transition-colors duration-300 border border-white/20 flex items-center justify-center"
+            className="bg-white/10 text-white px-4 py-2 hover:bg-white hover:text-black transition-colors duration-300 border border-white/20 flex items-center justify-center"
           >
             <FontAwesomeIcon icon={faGlobe} size="xl" />
           </a>

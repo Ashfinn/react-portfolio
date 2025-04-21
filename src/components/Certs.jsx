@@ -2,8 +2,8 @@ import React from "react";
 
 function Certs() {
   return (
-    <div className="bg-black/80 rounded-lg p-8 border border-white/20 max-w-5xl mx-auto">
-      <h3 className="text-xl font-display font-medium text-white mb-6">
+    <div className="bg-black/90 p-8 border border-white/20 max-w-5xl mb-32">
+      <h3 className="text-xl font-display font-medium text-orange-400 mb-6">
         Achievements, Training & Certifications
       </h3>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
